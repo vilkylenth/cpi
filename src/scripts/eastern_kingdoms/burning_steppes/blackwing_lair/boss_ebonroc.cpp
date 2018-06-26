@@ -1,4 +1,4 @@
-/* Copyright (C) 2006 - 2011 ScriptDev2 <https://scriptdev2.svn.sourceforge.net/>
+﻿/* Copyright (C) 2006 - 2011 ScriptDev2 <https://scriptdev2.svn.sourceforge.net/>
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation; either version 2 of the License, or
@@ -31,7 +31,8 @@ enum
 
     SPELL_SHADOW_FLAME          = 22539,
     SPELL_WING_BUFFET           = 23339,
-    SPELL_SHADOW_OF_EBONROC     = 23340,
+    SPELL_SHADOW_OF_EBONROC     = 23340, 
+	//SPELL_SHADOW_OF_EBONROC     = 23339,                     //单刷去掉埃博诺克回血技能
     SPELL_THRASH                = 3391,                     // TODO missing
 };
 
